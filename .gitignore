@@ -45,6 +45,6 @@ dist/
 build/
 *.egg-info/
 
-test_env.py
-test_patch_generator.py
-test.py
+/test_env.py
+/test_patch_generator.py
+/test.py
